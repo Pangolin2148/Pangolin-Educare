@@ -38,7 +38,7 @@ It includes a teacher dashboard, avatar customization, a math drawing tool, and 
 
 ### Install & Run
 ```bash
-git clone https://github.com/YOUR_USERNAME/pangolin-edulab
+git clone https://github.com/pangolin2148/pangolin-edulab
 cd pangolin-edulab
 npm install
 expo start
