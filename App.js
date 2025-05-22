@@ -1,0 +1,1 @@
+// React Native main app component with routes for students, teachers, avatar selection, and math tool
